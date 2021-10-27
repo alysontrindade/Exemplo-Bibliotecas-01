@@ -13,6 +13,7 @@ def multiplicacao(a, b):
 
     return s
 
+
 def divisao(a, b):
     s = a/b
 

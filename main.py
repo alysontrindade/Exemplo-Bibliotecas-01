@@ -6,6 +6,9 @@ from calculadora import subtracao as sub
 import math1
 
 
+
+
+
 print(mt.sin(90))
 print(mt.sin(180))
 print(mt.log(2,3))
