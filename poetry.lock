@@ -1,0 +1,29 @@
+[[package]]
+name = "math1"
+version = "1.0"
+description = "发布的第一个模块"
+category = "main"
+optional = false
+python-versions = "*"
+
+[[package]]
+name = "pygames"
+version = "0.1"
+description = "t"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "ab240b6919552b873004e605d18d5068a678c5151bfec5290d43b5c1ec81cb7c"
+
+[metadata.files]
+math1 = [
+    {file = "math1-1.0.tar.gz", hash = "sha256:3778c8c2119760cd2660877842143aa558a2e65e0e3161acb961b6525a5ee793"},
+]
+pygames = [
+    {file = "pygames-0.1-py2.py3-none-any.whl", hash = "sha256:f2cc7d45b3a0bacfff690e5b64d24a26393a7d60efe464e16e4b193d411c8124"},
+    {file = "pygames-0.1.tar.gz", hash = "sha256:da893cea616e940305bded6e605ba4f528b78a73cfefbfa78074e9f947e84892"},
+]
