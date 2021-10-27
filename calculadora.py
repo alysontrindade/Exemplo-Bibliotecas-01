@@ -12,3 +12,8 @@ def multiplicacao(a, b):
     s = a*b
 
     return s
+
+def divisao(a, b):
+    s = a/b
+
+    return s
